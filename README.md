@@ -11,19 +11,19 @@ To install and use this repository, follow these steps:
 1. Install [Yolov7-training](https://github.com/Chris-hughes10/Yolov7-training.git) by running the following command:
 
 ```bash
-   pip install git+https://github.com/Chris-hughes10/Yolov7-training.git
+pip install git+https://github.com/Chris-hughes10/Yolov7-training.git
 ```
 
 2. Install [CUDA 11.7](https://developer.nvidia.com/cuda-11-7-0-download-archive) and then PyTorch with CUDA:
 
 ```bash
-   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
 ```
 
 3. Install the rest of the required packages by running the following command:
 
 ```bash
-   pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 4. Save the pre-trained model [burger.pt](https://drive.google.com/file/d/1H33oeDgvestog0yPBioJUhdOvfrNnfuK/view?usp=sharing) and place it in the working directory.
