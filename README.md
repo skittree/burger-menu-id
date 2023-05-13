@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cdQV11JES0zJHGQ2ERi-8HyeYXbsgsqx?usp=sharing)
 
-This repository contains the full process of creating a fine-tuned YOLOv7 model in PyTorch that identifies hamburger menus in mobile user interfaces. The model was trained on the RICO dataset and uses the [Yolov7-training](https://github.com/Chris-hughes10/Yolov7-training.git) repository as a base.
+This repository contains the full process of creating a fine-tuned YOLOv7 model in PyTorch that identifies hamburger menus in mobile user interfaces. The model was trained on the RICO dataset and uses the [Yolov7-training](https://github.com/Chris-hughes10/Yolov7-training.git) repository as a base. It achieved a 0.9017 mAP rate on the validation set.
 
 ![Predictions](https://github.com/skittree/burger_menu_id/blob/master/figures/output.png)
 
