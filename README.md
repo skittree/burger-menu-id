@@ -17,7 +17,7 @@ To install and use this repository, follow these steps:
 2. Install [CUDA 11.7](https://developer.nvidia.com/cuda-11-7-0-download-archive) and then PyTorch with CUDA:
 
 ```bash
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
 ```
 
 3. Install the rest of the required packages by running the following command:
