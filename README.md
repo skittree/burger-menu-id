@@ -40,4 +40,4 @@ The repository contains the following notebooks:
 
 To use the model, run the `prediction.ipynb` notebook. The notebook automatically reads every JPG in the working directory and labels them with red bounding boxes.
 
-You can adjust the input parameters to test the model's performance on different inputs. You can also view the model's output for each input by clicking on the "Run" button.
+You can also adjust the input parameters in the notebook to test the model's performance on various inputs.
