@@ -4,6 +4,8 @@
 
 This repository contains the full process of creating a fine-tuned YOLOv7 model in PyTorch that identifies hamburger menus in mobile user interfaces. The model was trained on the RICO dataset and uses the [Yolov7-training](https://github.com/Chris-hughes10/Yolov7-training.git) repository as a base.
 
+![Predictions](https://github.com/skittree/burger_menu_id/blob/master/figures/output.png)
+
 ## Installation Instructions
 
 To install and use this repository, follow these steps:
